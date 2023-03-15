@@ -9,3 +9,4 @@ unit_tests
 vgcore.*
 *ignore.c
 example_program/example_program
+exercices/main.c
